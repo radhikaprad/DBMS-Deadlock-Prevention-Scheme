@@ -3,7 +3,7 @@ import os
 import collections
 import pdb
 
-filepath="/Users/radhikamanivannan/Documents/DBMS2/IP1.txt"
+filepath="IP1.txt"
 temp=[]
 tempwithoutdecl=[]
 ttable=[]
